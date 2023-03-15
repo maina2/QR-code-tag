@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    height: fit-content;
+    width: 1440px;
+}
+
+.code{
+    height: 415px;
+    width: 275px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    font-size: 15px;
+    padding-top: 15px;
+    border-radius: 15px;
+}
+
+img{
+    border-radius: 15px;
+}
+p{
+    font-weight: 400;
+     @import url(https://fonts.google.com/specimen/Outfit);
+    
+}
+h3{
+    font-weight: 700;
+    
+}
